@@ -3,23 +3,24 @@ table, tr, td{
     border-collapse: collapse;
 }
  
-.largura{
-    background-color: rgb(255, 0, 0);
-    color: whitesmoke;
-}
- 
 .largColuna{
     width: 200px;
-    background-color:blue;
+    background-color:rgb(255, 217, 5);
 }
 #cidade{
-    background-color: red;
+    background-color: rgb(253, 95, 95);
+    
 }
  
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif
     
+    
 }
 #Barra{
     background-color: black;
+}
+
+.letra{
+    color: aliceblue;
 }
