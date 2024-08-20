@@ -24,3 +24,9 @@ body{
 .letra{
     color: aliceblue;
 }
+#preview{
+    background-color: black;
+}
+.largmast{
+        width: 100px;
+}
