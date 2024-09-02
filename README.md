@@ -21,9 +21,49 @@ O Projeto consite na composição de uma tabela que conta com capitais brasileir
 * Porto Velho
 * Recife
 
-### Resultado do Projeto
 
-![Resultado final do projeto]()
+### Tabela
+
+* table - é um conjunto estruturado de dados composto de linhas e colunas (dados tabulares).
+
+* tr - a tag tr cria uma linha dentro de uma tag table e acomoda diversas tags th ou td que criam colunas dentro das linhas, formando uma tabela no documento
+
+* td - a tag td cria uma coluna para inserção de conteúdos, junto a diversas outras colunas em uma mesma linha definida pela tag tr
+ 
+Veja uma imagem de parte do codígo, onde é possivel indentificar o uso dos elementos mencionados acima:
+
+ * table
+ 
+![](img/table.png)
+ 
+* tr
+ 
+![](img/tr.png)
+ 
+* td
+ 
+![](img/td.png)
+
+### Resultado Final do Projeto
+
+![Resultado final do projeto](img/print.tabela.distancia.png)
+
+### Estilização
+
+O projeto foi estilizado, utilizando CSS3. Foi criado um arquivo chamado main.css. Nesse arquivo, constam configurações de estilo apresentados a seguir:
+
+* Estilo de cores - A cor de fundo utilizada no projeto foi definida como segue:
+
+```
+
+.largColuna{
+    width: 200px;
+    background-color:rgb(255, 217, 5);
+}
+
+```
+
+
  
 ## Tecnologias
 
